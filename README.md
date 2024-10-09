@@ -18,7 +18,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/SkyworkAI/MoH?color=success&label=Issues)](https://github.com/SkyworkAI/MoH/issues?q=is%3Aissue+is%3Aclosed)
 </h5>
 
-<details open><summary>💡 I also have other video-language projects that may interest you ✨. </summary><p>
+<details open><summary>💡 I also have other projects that may interest you ✨. </summary><p>
 <!--  may -->
     
 > [**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://arxiv.org/abs/2311.08046) <br>
