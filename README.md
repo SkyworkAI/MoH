@@ -18,6 +18,21 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/SkyworkAI/MoH?color=success&label=Issues)](https://github.com/SkyworkAI/MoH/issues?q=is%3Aissue+is%3Aclosed)
 </h5>
 
+<details open><summary>💡 I also have other video-language projects that may interest you ✨. </summary><p>
+<!--  may -->
+    
+> [**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**](https://arxiv.org/abs/2311.08046) <br>
+> Peng Jin, Ryuichi Takanobu, Wancai Zhang, Xiaochun Cao, Li Yuan <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/PKU-YuanGroup/Chat-UniVi)  [![github](https://img.shields.io/github/stars/PKU-YuanGroup/Chat-UniVi.svg?style=social)](https://github.com/PKU-YuanGroup/Chat-UniVi) [![arXiv](https://img.shields.io/badge/Arxiv-2311.08046-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.08046) [![Conference](http://img.shields.io/badge/CVPR-2024(Highlight)-FFD93D.svg)](https://cvpr.thecvf.com/) <br>
+    
+> [**MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts**](https://github.com/SkyworkAI/MoE-plus-plus) <br>
+> Peng Jin, Bo Zhu, Li Yuan, Shuicheng Yan <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/SkyworkAI/MoE-plus-plus)  [![github](https://img.shields.io/github/stars/SkyworkAI/MoE-plus-plus.svg?style=social)](https://github.com/SkyworkAI/MoE-plus-plus) <br>
+
+-->
+
+</p></details>
+
 ## 📣 News
 * **[2024/10/09]**  Model weight and inference code are available now! Welcome to **watch** 👀 this repository for the latest updates.
 
