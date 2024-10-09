@@ -67,6 +67,10 @@ The MoH model quickly recovers to over **95%** of the performance of the origina
 ### DiT for Class-Conditional Image Generation (ImageNet-1K)
 
 <div align=center>
+<img src="figures/fig9.png" width="800px">
+</div>
+
+<div align=center>
 <img src="figures/fig5.png" width="800px">
 </div>
 
