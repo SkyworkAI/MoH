@@ -34,6 +34,7 @@
 </p></details>
 
 ## 📣 News
+* **[2024/10/10]**  MoH-LLaMA3-8B weights are being approved and will be available for download after approval.
 * **[2024/10/09]**  Model weight and inference code are available now! Welcome to **watch** 👀 this repository for the latest updates.
 
 ## ⚡ Overview
@@ -64,7 +65,7 @@ We evaluate our proposed MoH across various popular model frameworks, including 
 Extensive experiments on ViT, DiT, and LLMs demonstrate that MoH outperforms multi-head attention by using only **50%~90%** of the attention heads.
 
 ### 🤗 Support Continue-Tuning Starting from the Multi-Head Attention Models
-we demonstrate that pre-trained multi-head attention models, such as LLaMA3-8B, can be further continue-tuned into our MoH models. Notably, MoH-LLaMA3-8B achieves an average accuracy of 64.0% across 14 benchmarks, outperforming LLaMA3-8B by 2.4% by utilizing only 75% of the attention heads.
+We demonstrate that pre-trained multi-head attention models, such as LLaMA3-8B, can be further continue-tuned into our MoH models. Notably, MoH-LLaMA3-8B achieves an average accuracy of 64.0% across 14 benchmarks, outperforming LLaMA3-8B by 2.4% by utilizing only 75% of the attention heads.
 
 <div align=center>
 <img src="figures/fig3.png" width="800px">
