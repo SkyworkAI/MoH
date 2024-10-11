@@ -27,7 +27,7 @@
     
 > [**MoE++: Accelerating Mixture-of-Experts Methods with Zero-Computation Experts**](https://github.com/SkyworkAI/MoE-plus-plus) <br>
 > Peng Jin, Bo Zhu, Li Yuan, Shuicheng Yan <br>
-[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/SkyworkAI/MoE-plus-plus)  [![github](https://img.shields.io/github/stars/SkyworkAI/MoE-plus-plus.svg?style=social)](https://github.com/SkyworkAI/MoE-plus-plus) <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/SkyworkAI/MoE-plus-plus)  [![github](https://img.shields.io/github/stars/SkyworkAI/MoE-plus-plus.svg?style=social)](https://github.com/SkyworkAI/MoE-plus-plus) [![arXiv](https://img.shields.io/badge/Arxiv-2410.07348-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.07348) <br>
 
 -->
 
