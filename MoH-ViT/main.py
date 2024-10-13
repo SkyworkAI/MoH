@@ -461,7 +461,7 @@ def main(args):
             for checkpoint_path in checkpoint_paths:
                 utils.save_on_master(checkpoint_dict, checkpoint_path)
 
-        if epoch == 0 and (epoch % 10 == 0 or epoch >= 280):
+        if epoch % 10 == 0 or epoch >= 280:
             test_stats = evaluate(data_loader_val, model, device)
             print(f"Accuracy of the network on the {len(dataset_val)} test images: {test_stats['acc1']:.1f}%")
             if test_stats['acc1'] >= max_accuracy and args.output_dir:
