@@ -2,7 +2,7 @@
 <img src="figures/fig1.png" width="280px">
 </div>
 
-<h2 align="center"> <a href="">MoH: Multi-Head Attention as Mixture-of-Head Attention
+<h2 align="center"> <a href="https://arxiv.org/abs/2410.11842">MoH: Multi-Head Attention as Mixture-of-Head Attention
 
 </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
@@ -11,7 +11,7 @@
 
 <!-- [![Demo](https://img.shields.io/badge/⚡-Hugging%20Face%20Demo-yellow.svg)](https://huggingface.co/spaces/Chat-UniVi/Chat-UniVi) -->
 [![hf](https://img.shields.io/badge/🤗-Hugging%20Face-blue.svg)](https://huggingface.co/Chat-UniVi)
-[![arXiv](https://img.shields.io/badge/Arxiv-2311.08046-b31b1b.svg?logo=arXiv)]()
+[![arXiv](https://img.shields.io/badge/Arxiv-2410.11842-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.11842)
 [![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/SkyworkAI/MoH/blob/main/LICENSE)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSkyworkAI%2FMoH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub issues](https://img.shields.io/github/issues/SkyworkAI/MoH?color=critical&label=Issues)](https://github.com/SkyworkAI/MoH/issues?q=is%3Aopen+is%3Aissue)
