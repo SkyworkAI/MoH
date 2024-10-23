@@ -34,6 +34,7 @@
 </p></details>
 
 ## 📣 News
+* **[2024/10/23]** We updated [tokenizer config](https://huggingface.co/Chat-UniVi/MoH-LLaMA3-8B/blob/main/tokenizer_config.json) for [MoH-LLaMA3-8B](https://huggingface.co/Chat-UniVi/MoH-LLaMA3-8B).
 * **[2024/10/22]**  Now [MoH-LLaMA3-8B](https://huggingface.co/Chat-UniVi/MoH-LLaMA3-8B) is available.
 * **[2024/10/10]**  MoH-LLaMA3-8B weights are being approved and will be available for download after approval.
 * **[2024/10/09]**  Model weight and inference code are available now! Welcome to **watch** 👀 this repository for the latest updates.
