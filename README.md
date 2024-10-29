@@ -143,8 +143,9 @@ By replacing the standard summation in multi-head attention with a weighted summ
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
 ```
 @article{jin2024moh,
-  title={MoH: Multi-Head Attention as Mixture-of-Head Attention}, 
-  author={Peng Jin and Bo Zhu and Li Yuan and Shuicheng Yan},
+  title={MoH: Multi-Head Attention as Mixture-of-Head Attention},
+  author={Jin, Peng and Zhu, Bo and Yuan, Li and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2410.11842},
   year={2024}
 }
 ```
